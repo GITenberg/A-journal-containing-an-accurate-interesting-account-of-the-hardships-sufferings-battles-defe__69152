@@ -1,0 +1,28 @@
+_repo: A-journal-containing-an-accurate-interesting-account-of-the-hardships-sufferings-battles-defe__69152
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Darnell, Elias
+    gutenberg_agent_id: '55133'
+    url: http://www.gutenberg.org/2009/agents/55133
+description: ''
+gutenberg_issued: '2022-10-14'
+identifiers:
+  gutenberg: '69152'
+language: en
+pgterms:marc905: 20220720174151darnell
+pgterms:marc906: '1854'
+pgterms:marc907: US
+production_note: David E. Brown and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: 'United States: Lippincott, Grambo, and Co.,1854.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'A journal containing an accurate & interesting account of the hardships, sufferings,
+  battles, defeat, & captivity of those heroic Kentucky volunteers & regulars, commanded
+  by General Winchester, in the year 1812-13: Also, two narratives, by men, that were
+  wounded in the battles on the River Raisin, and taken captive by the Indians'
+url: http://www.gutenberg.org/ebooks/69152
