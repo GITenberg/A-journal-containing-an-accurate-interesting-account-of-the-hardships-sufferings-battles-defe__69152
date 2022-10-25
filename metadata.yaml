@@ -1,11 +1,16 @@
 _repo: A-journal-containing-an-accurate-interesting-account-of-the-hardships-sufferings-battles-defe__69152
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69152-h/images/cover.jpg
 creator:
   author:
     agent_name: Darnell, Elias
     gutenberg_agent_id: '55133'
     url: http://www.gutenberg.org/2009/agents/55133
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69152#A-journal-containing-an-accurate-interesting-account-of-the-hardships-sufferings-battles-defe_
 gutenberg_issued: '2022-10-14'
 identifiers:
   gutenberg: '69152'
